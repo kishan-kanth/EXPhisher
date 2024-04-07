@@ -1,0 +1,165 @@
+IP                   : 202.21.42.241
+IP Type              : IPv4
+User OS              : Linux
+Version              : x86_64
+Browser              : Chrome
+Location             : Papanasam, India, Asia
+GeoLocation(lat, lon): 10.9233498, 79.2863745
+Currency             : Indian Rupee
+
+IP                   : 202.21.42.241
+IP Type              : IPv4
+User OS              : Linux
+Version              : x86_64
+Browser              : Chrome
+Location             : Papanasam, India, Asia
+GeoLocation(lat, lon): 10.9233498, 79.2863745
+Currency             : Indian Rupee
+
+IP                   : 110.224.82.183
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+Version              : 
+Browser              : Unknown Browser
+Location             : Chennai, India, Asia
+GeoLocation(lat, lon): 13.0826802, 80.2707184
+Currency             : Indian Rupee
+
+IP                   : 42.111.144.209
+IP Type              : IPv4
+User OS              : Android
+Version              : 10;
+Browser              : Handheld Browser
+Location             : Chennai, India, Asia
+GeoLocation(lat, lon): 13.0826802, 80.2707184
+Currency             : Indian Rupee
+
+IP                   : 103.43.203.40
+IP Type              : IPv4
+User OS              : Android
+User Agent           : Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Mobile Safari/537.36
+Version              : 10;
+Browser              : Handheld Browser
+Location             : Kanchipuram, India, Asia
+GeoLocation(lat, lon): 12.8341735, 79.7036402
+Currency             : Indian Rupee
+
+IP                   : 103.43.203.40
+IP Type              : IPv4
+User OS              : Android
+User Agent           : Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Mobile Safari/537.36
+Version              : 10;
+Browser              : Handheld Browser
+Location             : Kanchipuram, India, Asia
+GeoLocation(lat, lon): 12.8341735, 79.7036402
+Currency             : Indian Rupee
+
+IP                   : 42.109.150.75
+IP Type              : IPv4
+User OS              : Android
+Version              : 10;
+Browser              : Handheld Browser
+Location             : Chennai, India, Asia
+GeoLocation(lat, lon): 13.0826802, 80.2707184
+Currency             : Indian Rupee
+
+IP                   : 42.111.144.41
+IP Type              : IPv4
+User OS              : Android
+User Agent           : Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36
+Version              : 10;
+Browser              : Handheld Browser
+Location             : Chennai, India, Asia
+GeoLocation(lat, lon): 13.0826802, 80.2707184
+Currency             : Indian Rupee
+
+IP                   : 42.111.144.41
+IP Type              : IPv4
+User OS              : Android
+User Agent           : Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36
+Version              : 10;
+Browser              : Handheld Browser
+Location             : Chennai, India, Asia
+GeoLocation(lat, lon): 13.0826802, 80.2707184
+Currency             : Indian Rupee
+
+IP                   : 103.43.203.40
+IP Type              : IPv4
+User OS              : Android
+User Agent           : Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36
+Version              : 10;
+Browser              : Handheld Browser
+Location             : Kanchipuram, India, Asia
+GeoLocation(lat, lon): 12.8341735, 79.7036402
+Currency             : Indian Rupee
+
+IP                   : 106.197.125.191
+IP Type              : IPv4
+User OS              : Android
+User Agent           : Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36
+Version              : 10;
+Browser              : Handheld Browser
+Location             : Tiruppur, India, Asia
+GeoLocation(lat, lon): 11.1085242, 77.3410656
+Currency             : Indian Rupee
+
+IP                   : 110.224.93.202
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+User Agent           : WhatsApp/2.23.20.0
+Version              : 
+Browser              : Unknown Browser
+Location             : Valangaiman, India, Asia
+GeoLocation(lat, lon): 10.8887019, 79.393221
+Currency             : Indian Rupee
+
+IP                   : 110.224.93.202
+IP Type              : IPv4
+User OS              : Android
+User Agent           : Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36
+Version              : 10;
+Browser              : Handheld Browser
+Location             : Valangaiman, India, Asia
+GeoLocation(lat, lon): 10.8887019, 79.393221
+Currency             : Indian Rupee
+
+IP                   : 106.197.125.191
+IP Type              : IPv4
+User OS              : Android
+User Agent           : Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36
+Version              : 10;
+Browser              : Handheld Browser
+Location             : Tiruppur, India, Asia
+GeoLocation(lat, lon): 11.1085242, 77.3410656
+Currency             : Indian Rupee
+
+IP                   : 110.224.93.202
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+User Agent           : WhatsApp/2.23.20.0
+Version              : 
+Browser              : Unknown Browser
+Location             : Valangaiman, India, Asia
+GeoLocation(lat, lon): 10.8887019, 79.393221
+Currency             : Indian Rupee
+
+IP                   : 110.224.93.202
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+User Agent           : WhatsApp/2.23.20.0
+Version              : 
+Browser              : Unknown Browser
+Location             : Valangaiman, India, Asia
+GeoLocation(lat, lon): 10.8887019, 79.393221
+Currency             : Indian Rupee
+
+IP                   : 106.203.6.220
+IP Type              : IPv4
+User OS              : Android
+User Agent           : Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36
+Version              : 10;
+Browser              : Handheld Browser
+Location             : Polur, India, Asia
+GeoLocation(lat, lon): 12.5106551, 79.1268287
+Currency             : Indian Rupee
+
